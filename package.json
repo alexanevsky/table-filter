@@ -1,0 +1,42 @@
+{
+  "name": "@alexanevsky/table-filter",
+  "version": "1.0.0",
+  "description": "jQuery plugin for filter tables",
+  "main": "dist/jquery.table-filter.min.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^2.0.9",
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-rimraf": "^1.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanevsky/table-filter.git"
+  },
+  "keywords": [
+    "jquery",
+    "table",
+    "filter",
+    "search",
+    "alexanevsky"
+  ],
+  "author": "Alexanevsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexanevsky/table-filter/issues"
+  },
+  "homepage": "https://github.com/alexanevsky/table-filter",
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
